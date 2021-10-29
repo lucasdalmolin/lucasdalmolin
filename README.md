@@ -1,0 +1,3 @@
+
+I am a frustrated architecture student looking to be a great full stack web developer...
+
